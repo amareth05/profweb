@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.site-heading-lower{
+    font-family: 'Public Sans';
+}
+.mb-3{
+    font-family: 'Public Sans';
+    color: bisque !important;
+}
+.notyellow {
+    color: black !important;
+}
+.intro-text{
+   /* box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+}
+.section-heading-lower{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);;*/
+}
+.video-container {
+    display: flex; /* Use Flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Take up full viewport height */
+    padding: 20px; /* Add some padding around */
+}
